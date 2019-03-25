@@ -1,0 +1,16 @@
+{
+  "name": "blog-post",
+  "version": "1.0.0",
+  "description": "Laboratory number 7 web development class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "hsalazar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "uuid": "^3.3.2"
+  }
+}
